@@ -1,0 +1,22 @@
+.skills {
+  color: white !important;
+  width: 100%;
+  overflow-x: hidden;
+  text-align: center;
+}
+
+.skills h1 {
+  color: white !important;
+  text-align: center;
+}
+
+.skills-p {
+  color: white !important;
+  justify-self: center;
+  width: 100%;
+}
+
+.skills-p Grid {
+  color: white !important;
+  text-align: center;
+}

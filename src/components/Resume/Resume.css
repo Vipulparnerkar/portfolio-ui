@@ -1,0 +1,20 @@
+.parent{
+    color: white !important;
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    text-align: end;
+    overflow: hidden;
+}
+
+.parent h1{
+    color: white !important;
+   text-align: center;
+}
+
+.resume-page{
+    height: fit-content;
+    text-align: center;
+}

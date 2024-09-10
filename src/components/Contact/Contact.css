@@ -1,0 +1,20 @@
+.contact {
+  color: white !important;
+  padding: 20px;
+  margin-left: 20px;
+}
+.contact h1 {
+  color: white !important;
+  text-align: center;
+}
+.email {
+  color: #fba802 !important;
+  height: 30px !important;
+  font-size: 6vw !important;
+  text-align: center;
+}
+
+.link-color {
+  color: rgb(183, 181, 181) !important;
+  text-decoration: none !important;
+}
