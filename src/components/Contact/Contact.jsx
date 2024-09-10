@@ -16,7 +16,7 @@ const Contact = () => {
     },
   ];
   return (
-    <div className="contact" id="contacts">
+    <div className="contact" id="contact">
       <h1>Contact Me</h1>
       <Grid2 container spacing={7}>
         {contacts.map((contact) => {
